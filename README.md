@@ -30,7 +30,7 @@ This project aims to:
 ## Installation
 1. Clone the repository:
    ```bash
-  gt clone https://github.com/Melina-Singh/Multimodel_Music_Classification.git
+   git clone https://github.com/Melina-Singh/Multimodel_Music_Classification.git
 
 
 2. Install dependencies:
