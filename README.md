@@ -30,8 +30,8 @@ This project aims to:
 ## Installation
 1. Clone the repository:
    ```bash
-  https://github.com/Melina-Singh/Multimodel_Music_Classification.git
-<<<<<<< HEAD
+  gt clone https://github.com/Melina-Singh/Multimodel_Music_Classification.git
+
 
 2. Install dependencies:
     ```bash
@@ -51,6 +51,3 @@ This project aims to:
 Let me know if you want to include additional technical details, results, or visualizations!
 
 
-
-=======
->>>>>>> 6be16b578bc665178a3c88c34f249c10d242282a
