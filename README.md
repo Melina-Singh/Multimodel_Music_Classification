@@ -51,3 +51,13 @@ This project aims to:
 Let me know if you want to include additional technical details, results, or visualizations!
 
 
+## Authors
+
+**Melina Singh**  
+  *Role*: Audio and Video Model Development, Multimodal Classification, Project Lead  
+
+- **Aryan Shakya**  
+  *Role*: Data Preprocessing, Ensemble Design, Evaluation Metrics  
+  
+  - **Rakhsya Bhusal**  
+  *Role*: Frontend and Backend Design and Implementation  
