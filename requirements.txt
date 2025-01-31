@@ -1,0 +1,14 @@
+torch 
+torchvision 
+pillow
+matplotlib
+numpy
+pandas
+seaborn 
+scikit-learn
+tqdm 
+transformers
+librosa
+torchaudio
+gradio
+
