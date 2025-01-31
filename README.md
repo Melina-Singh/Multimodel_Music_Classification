@@ -31,6 +31,7 @@ This project aims to:
 1. Clone the repository:
    ```bash
   https://github.com/Melina-Singh/Multimodel_Music_Classification.git
+<<<<<<< HEAD
 
 2. Install dependencies:
     ```bash
@@ -51,3 +52,5 @@ Let me know if you want to include additional technical details, results, or vis
 
 
 
+=======
+>>>>>>> 6be16b578bc665178a3c88c34f249c10d242282a
