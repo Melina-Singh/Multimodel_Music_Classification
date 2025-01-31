@@ -1,5 +1,3 @@
-# Multimodel_Music_Classification
-
 # Multimodal Music Classification
 
 This repository contains the implementation of a **Multimodal Music Classification** system, designed to preserve and promote the rich musical heritage of Nepal. The project utilizes **audio and video data** with deep learning techniques to classify indigenous Nepali music genres accurately.
@@ -32,4 +30,4 @@ This project aims to:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Multimodal_Music_Classification.git
+  https://github.com/Melina-Singh/Multimodel_Music_Classification.git
